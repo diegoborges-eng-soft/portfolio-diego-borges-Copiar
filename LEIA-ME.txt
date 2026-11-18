@@ -1,0 +1,17 @@
+PORTFÓLIO DIEGO BORGES
+
+1. Extraia o ZIP.
+2. Abra index.html no navegador, ou abra a pasta no VS Code com Live Server.
+3. Edite textos em index.html, estilos em style.css e interações em script.js.
+4. Para trocar o WhatsApp, substitua 5561981758935 nos links do index.html.
+5. Para publicar, envie os três arquivos para um repositório GitHub e conecte-o à Vercel.
+
+Apresentação para o professor:
+- HTML: estrutura semântica, seções, links e acessibilidade.
+- CSS: cores, grid, flexbox, media queries e responsividade.
+- JavaScript: menu mobile e ano automático.
+- WhatsApp: links wa.me com mensagens predefinidas.
+
+A página é estática e não coleta dados de visitantes.
+
+Foto pessoal: diego-borges.jpg (arquivo original, sem edições).
